@@ -1,0 +1,3 @@
+[submodule "aboutme"]
+	path = aboutme
+	url = https://github.com/icdev2dev/aboutme
